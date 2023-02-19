@@ -73,13 +73,12 @@ a.skip{
 
   /* Requirement 9 code here -- Do not remove this comment. */
 
-p {
+.about, .clients, .method, .contact{
   align-self: center;
   max-height: 40vh;
-  overflow: scroll;
+  text-overflow: scroll;
 
 }
-
 
   /*Add the media query here.  Make sure to */
 
