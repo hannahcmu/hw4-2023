@@ -70,10 +70,10 @@ a.skip{
 
   /* Requirement 9 code here -- Do not remove this comment. */
 
-p {
-  text-align: center;
+p{
+  align-items: center;
   max-height: 40%;
-  overflow: scroll;
+  text-overflow: scroll;
 
 }
 
