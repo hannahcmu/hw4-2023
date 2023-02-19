@@ -76,7 +76,7 @@ a.skip{
 .about, .clients, .method, .contact{
   align-self: center;
   max-height: 40vh;
-  overflow: auto;
+  overflow-y: auto;
 
 }
 
